@@ -1,0 +1,88 @@
+.gradient-background {
+  background: linear-gradient(300deg, #00bfff, #ff4c68, #ef8172);
+  background-size: 180% 180%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.image-of-afifa
+{
+  border-radius: 50%;
+}
+
+.container{
+  height:100vh;
+  
+  
+}
+
+.py-5{
+  padding-top: 13rem!important;
+}
+
+.display-5{
+  font-family: 'DM Serif Display', serif;
+  font-size:80px;
+  
+  
+  
+}
+
+h1{
+  color: bisque;
+}
+
+.lead{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 25px;
+}
+
+.nie{
+  font-weight: bold;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 0.75rem;
+}
+
+
+
+.py-4{
+  padding-top: 3rem!important;
+}
+
+
+h2{
+  color: #ff4c68;
+  font-size: xx-large;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-weight: bold;
+}
+
+.feature-icon{
+  background: #ff4c68 !important; ;
+}
+
+
+
+
+
+
+
+
+
+
+
